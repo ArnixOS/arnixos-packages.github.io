@@ -1,0 +1,19 @@
+h1{
+    font-family: "Poppins";
+    font-size: 32px;
+    color: rgb(21, 101, 192);
+    background-color: rgb(236, 239, 241);
+    margin: 0;
+}
+
+a:active{
+    color: rgb(33, 33, 33);
+}
+
+a:hover{
+    color: rgb(158, 158, 158);
+}
+
+a:visited{
+    color: rgb(96, 125, 139);
+}

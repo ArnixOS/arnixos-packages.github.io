@@ -4,6 +4,24 @@ h1{
     color: rgb(21, 101, 192);
     background-color: rgb(236, 239, 241);
     margin: 0;
+    border-radius: 5px;
+    border-width: 1px;
+}
+
+table , td , th{
+    border-style: solid;
+    border-radius: 2px;
+    border-width: 1px;
+    border-collapse: collapse;
+    border-color: #212121;
+}
+
+p1{
+    color: #212121;
+}
+
+a{
+    color: #303f9f
 }
 
 a:active{
@@ -11,7 +29,8 @@ a:active{
 }
 
 a:hover{
-    color: rgb(158, 158, 158);
+    background-color: rgb(236, 239, 241);
+    color: rgb(33, 33, 33);
 }
 
 a:visited{
